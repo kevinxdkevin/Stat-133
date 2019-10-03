@@ -1,0 +1,1 @@
+Today's lab is an introduction to Git. We will familiarize ourselves with some of the basic Git commands.
